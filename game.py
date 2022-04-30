@@ -23,7 +23,7 @@ BLUE2 = (0, 100, 255)
 BLACK = (0,0,0)
 
 BLOCK_SIZE = 20
-SPEED = 140 # Pro jogo ir bastante acelerado
+SPEED = 1000 # Pro jogo ir bastante acelerado
 
 # Cria a classe do jogo para ela ser importada no agente
 class SnakeGameAI:
